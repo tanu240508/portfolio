@@ -24,6 +24,6 @@ form.addEventListener('submit', function(e) {
   form.reset();
 
   // Show a success message
-  alert('Thank you for your message!');
+  alert('Thank you for your message!!');
 });
 
